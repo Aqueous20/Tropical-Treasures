@@ -15,3 +15,8 @@ context folder for the context apis
 pages folder for the pages of the website
 
 NavBar.jsx is for the navigation bar
+
+#July 23, 2025
+Completing NavBar is on the agenda for today
+Navbar completed
+creating pages and linking routes is next on the agenda for today
