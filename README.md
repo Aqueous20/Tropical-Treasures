@@ -23,3 +23,7 @@ creating pages and linking routes is next on the agenda for today
 created pages for cart, login and sign up (as one page), product, shop, shopcategory(will contain men women and kids category)
 created routes for home  mens womens kids product cart and login and sign up
 linked routes to navigation bar
+
+#july 24,2025
+completely built out the hero product component along with fullly styles css
+to show case the main product that tropical treasures will be show casing
