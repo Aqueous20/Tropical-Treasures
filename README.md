@@ -34,3 +34,6 @@ items component was created where a prop was used in order to make the page more
 building out the popular component
 items prop will now be added to pages through the popular component
 added first popular component to the home page will add the others and new collection components tommorow
+
+#july 26,2025
+created the offers component
