@@ -37,3 +37,12 @@ added first popular component to the home page will add the others and new colle
 
 #july 26,2025
 created the offers component
+
+#july 27,2025
+no updates
+
+#july 28, 2025
+designed the html structre for the offers component
+styled the the html structure for offers component 
+created new collections component
+designed the html structre for the new collections component
