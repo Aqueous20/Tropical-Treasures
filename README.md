@@ -43,16 +43,20 @@ no updates
 
 #july 28, 2025
 designed the html structre for the offers component
-styled the the html structure for offers component 
+styled the the html structure for offers component
 created new collections component
 
 #july 29,2025
 designed the html structre for the new collections component
 mounted the new collections component in shop page
-styled the html structure for new collections component 
+styled the html structure for new collections component
 created news letter component
 
 #july 30 2025
 designed the html structure for news letter component
 styled the html structure for newsletter component
 mounted the news letter component
+created footer component
+designed the html structure for the footer component
+styled the html structure for the footer component
+mounted the footer component
