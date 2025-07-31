@@ -54,9 +54,16 @@ created news letter component
 
 #july 30 2025
 designed the html structure for news letter component
-styled the html structure for newsletter component
+styled the html structure for newsletter component 
 mounted the news letter component
 created footer component
 designed the html structure for the footer component
 styled the html structure for the footer component
 mounted the footer component
+
+july 31,2025
+created context jsx for the context api
+created context api in the context jsx
+its a context function that stored the data from all products js and functions 
+that will be accesssed using context api 
+to be used in other components 
