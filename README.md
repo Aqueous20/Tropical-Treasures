@@ -67,3 +67,8 @@ created context api in the context jsx
 its a context function that stored the data from all products js and functions 
 that will be accesssed using context api 
 to be used in other components 
+
+August 2,2025
+designed the html structure for the shop category page
+styled the html structure for the shop category page
+added banners for each shop category page (men women kids) using shop context api 

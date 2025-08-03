@@ -1,15 +1,15 @@
-import React, { createContext } from 'react'
-import allproducts from '../components/assets/all_product'
+import React, { createContext } from "react";
+import allproducts from "../components/assets/all_product.js";
 
-export const ShopContext = createContext (null);
+export const ShopContext = createContext(null);
 
 const ShopContextProvider = (props) => {
-    const contextValue = {allproducts}
-    return (
-        <ShopContext.Provider value={contextValue}>
-            {props.children}
-        </ShopContext.Provider>
-    )
-}
+  const contextValue = { allproducts };
+  return (
+    <ShopContext.Provider value={contextValue}>
+      {props.children}
+    </ShopContext.Provider>
+  );
+};
 
 export default ShopContextProvider;
