@@ -54,7 +54,7 @@ created news letter component
 
 #july 30 2025
 designed the html structure for news letter component
-styled the html structure for newsletter component 
+styled the html structure for newsletter component
 mounted the news letter component
 created footer component
 designed the html structure for the footer component
@@ -64,17 +64,22 @@ mounted the footer component
 july 31,2025
 created context jsx for the context api
 created context api in the context jsx
-its a context function that stored the data from all products js and functions 
-that will be accesssed using context api 
-to be used in other components 
+its a context function that stored the data from all products js and functions
+that will be accesssed using context api
+to be used in other components
 
 August 2,2025
 designed the html structure for the shop category page
 styled the html structure for the shop category page
-added banners for each shop category page (men women kids) using shop context api 
+added banners for each shop category page (men women kids) using shop context api
 
 August 3,2025
-started login and signup design 
+started login and signup design
 
 August 4,2025
 completed the login and signup html structure design for the login and signup page
+
+august 5, 2025
+edited the html structure
+styled the html structure for the signup and log in page may be changed further
+designed the html struture for the product page
