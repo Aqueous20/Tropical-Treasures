@@ -74,4 +74,7 @@ styled the html structure for the shop category page
 added banners for each shop category page (men women kids) using shop context api 
 
 August 3,2025
-started login and signup compoonent
+started login and signup design 
+
+August 4,2025
+completed the login and signup html structure design for the login and signup page
