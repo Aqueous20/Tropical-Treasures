@@ -82,4 +82,10 @@ completed the login and signup html structure design for the login and signup pa
 august 5, 2025
 edited the html structure
 styled the html structure for the signup and log in page may be changed further
+
+august 6,2025
 designed the html struture for the product page
+created the breadcrumbs component
+added the breadcrumbs component that was used along 
+with the design for the product page to display the products
+fixed an issue with the routing of the product page
