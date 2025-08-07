@@ -89,3 +89,6 @@ created the breadcrumbs component
 added the breadcrumbs component that was used along 
 with the design for the product page to display the products
 fixed an issue with the routing of the product page
+
+august 7,205
+created the product display component
