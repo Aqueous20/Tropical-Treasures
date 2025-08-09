@@ -92,3 +92,9 @@ fixed an issue with the routing of the product page
 
 august 7,205
 created the product display component
+
+august 8, 2025
+added html structure to product display component 
+styled the html structure of product display component 
+added the component to the project page 
+fixed a bug that was not allowing images to show in the product display component

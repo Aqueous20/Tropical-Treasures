@@ -3,7 +3,7 @@ import "./stylesheets/Products.css";
 import { ShopContext } from "../context/ShopContext";
 import { useParams } from "react-router-dom";
 import { BreadCrumbs } from "../components/BreadCrumbs/BreadCrumbs";
-import { ProductDisplay } from "../components/ProductDisplay/ProductDisplay";
+import { ProductDisplay } from "../components/ProductDisplay/ProductDisplay.jsx";
 
 export const Product = () => {
   const { allproducts } = useContext(ShopContext);
