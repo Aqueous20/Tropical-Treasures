@@ -79,7 +79,7 @@ started login and signup design
 August 4,2025
 completed the login and signup html structure design for the login and signup page
 
-august 5, 2025
+august 5,2025
 edited the html structure
 styled the html structure for the signup and log in page may be changed further
 
@@ -90,11 +90,14 @@ added the breadcrumbs component that was used along
 with the design for the product page to display the products
 fixed an issue with the routing of the product page
 
-august 7,205
+august 7,2025
 created the product display component
 
-august 8, 2025
+august 8,2025
 added html structure to product display component 
 styled the html structure of product display component 
 added the component to the project page 
 fixed a bug that was not allowing images to show in the product display component
+
+august 9,2025
+created the description box compnent and css file
