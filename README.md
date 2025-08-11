@@ -101,3 +101,9 @@ fixed a bug that was not allowing images to show in the product display componen
 
 august 9,2025
 created the description box compnent and css file
+
+august 10, 2025
+added html structure to description box component
+styled the html structure for the description box component
+mounted the description box component
+created the related product component
