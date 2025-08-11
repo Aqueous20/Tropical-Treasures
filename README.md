@@ -86,7 +86,7 @@ styled the html structure for the signup and log in page may be changed further
 august 6,2025
 designed the html struture for the product page
 created the breadcrumbs component
-added the breadcrumbs component that was used along 
+added the breadcrumbs component that was used along
 with the design for the product page to display the products
 fixed an issue with the routing of the product page
 
@@ -94,9 +94,9 @@ august 7,2025
 created the product display component
 
 august 8,2025
-added html structure to product display component 
-styled the html structure of product display component 
-added the component to the project page 
+added html structure to product display component
+styled the html structure of product display component
+added the component to the project page
 fixed a bug that was not allowing images to show in the product display component
 
 august 9,2025
@@ -107,3 +107,8 @@ added html structure to description box component
 styled the html structure for the description box component
 mounted the description box component
 created the related product component
+
+august 11,2025
+added html structure to the related products component
+styled the html structure for the related products component
+mounted the related products component
