@@ -112,3 +112,8 @@ august 11,2025
 added html structure to the related products component
 styled the html structure for the related products component
 mounted the related products component
+
+august 12,2025
+added the logic for the cart and add cart button
+add to cart function was created 
+remove from cart function was created 
