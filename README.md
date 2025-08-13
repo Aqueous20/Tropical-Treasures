@@ -117,3 +117,7 @@ august 12,2025
 added the logic for the cart and add cart button
 add to cart function was created 
 remove from cart function was created 
+
+august 13, 2025
+created cartitems component
+created html structure for cart items component
