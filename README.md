@@ -102,7 +102,7 @@ fixed a bug that was not allowing images to show in the product display componen
 august 9,2025
 created the description box compnent and css file
 
-august 10, 2025
+august 10,2025
 added html structure to description box component
 styled the html structure for the description box component
 mounted the description box component
@@ -118,6 +118,11 @@ added the logic for the cart and add cart button
 add to cart function was created 
 remove from cart function was created 
 
-august 13, 2025
+august 13,2025
 created cartitems component
 created html structure for cart items component
+styled the html structure for cart items component
+
+august 14,2025
+continuing the html structure for cart items component 
+continuing the styling of the html structure for cart items component

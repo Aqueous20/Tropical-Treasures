@@ -50,17 +50,29 @@ export const CartItems = () => {
       </div>
       <div className="cart_items-down">
         <div className="cart_items-total">
-            <h1>Cart Totals</h1>
-            <div>
-                <div className="cart_items-total-items">
-                    <p>SubTotal</p>
-                    <p>${0}</p>
-                </div>
-                <hr />
-                <div className="cart_items-total-items">
-                    <p>Shipping Fee</p>
-                    <p>Free</p>
-                </div>
+          <h1>Cart Totals</h1>
+          <div>
+            <div className="cart_items-total-items">
+              <p>SubTotal</p>
+              <p>${0}</p>
+            </div>
+            <hr />
+            <div className="cart_items-total-items">
+              <p>Shipping Fee</p>
+              <p>Free</p>
+            </div>
+            <hr />
+            <div className="cart_items-total-items">
+              <h3>Total</h3>
+              <h3>${0}</h3>
+            </div>
+          </div>
+          <button>PROCEED TO CHECKOUT</button>
+        </div>
+        <div className="cart_items-promocode">
+            <p>If you have a promo code, Enter it here</p>
+            <div className="cart_items-promobox">
+                
             </div>
         </div>
       </div>
