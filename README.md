@@ -115,8 +115,8 @@ mounted the related products component
 
 august 12,2025
 added the logic for the cart and add cart button
-add to cart function was created 
-remove from cart function was created 
+add to cart function was created
+remove from cart function was created
 
 august 13,2025
 created cartitems component
@@ -124,5 +124,11 @@ created html structure for cart items component
 styled the html structure for cart items component
 
 august 14,2025
-continuing the html structure for cart items component 
+continuing the html structure for cart items component
 continuing the styling of the html structure for cart items component
+
+august 15,2025
+continuing the html structure for cart items component
+continuing styling of html structure for cart items component
+added logic for cart total in the shop context api
+added logic to display the number of items in the cart icon
