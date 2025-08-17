@@ -132,3 +132,6 @@ added logic to display the number of items in the cart icon
 
 august 16,2025
 started to work on the responsiveness of the website
+
+august 17,2025
+continuing the responsiveness of the website
