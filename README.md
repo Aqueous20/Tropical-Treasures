@@ -129,3 +129,6 @@ continuing the html structure for cart items component
 continuing styling of html structure for cart items component
 added logic for cart total in the shop context api
 added logic to display the number of items in the cart icon
+
+august 16,2025
+started to work on the responsiveness of the website
