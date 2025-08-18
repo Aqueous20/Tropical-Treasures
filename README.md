@@ -135,3 +135,8 @@ started to work on the responsiveness of the website
 
 august 17,2025
 continuing the responsiveness of the website
+
+august 18,2025
+completed responsiveness of nav bar
+working on responsiveness of items
+fixing other bugs that are recognised

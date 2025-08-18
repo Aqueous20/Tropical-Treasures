@@ -11,7 +11,7 @@ export const ShopCategory = (props) => {
       <img
         src={props.banner}
         alt="binge sake"
-        className="shop_categroy-banner"
+        className="shop_category-banner"
       />
       <div className="shop_category-indexsort">
         <p>
@@ -39,9 +39,7 @@ export const ShopCategory = (props) => {
           }
         })}
       </div>
-      <div className="shop_category-load-more">
-        Explore More
-      </div>
+      <div className="shop_category-load-more">Explore More</div>
     </div>
   );
 };
