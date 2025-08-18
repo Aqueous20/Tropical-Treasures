@@ -1,4 +1,4 @@
-import React, { useContext, useRef, useState } from "react";
+import React, { useContext, useState } from "react";
 import "./NavBar.css";
 import TT from "../assets/TT.png";
 import cart_icon from "../assets/cart_icon.png";
@@ -9,20 +9,26 @@ import nav_dropdown from '../assets/nav_dropdown.png'
 export const NavBar = () => {
   const [menu, setmenu] = useState("Shop");
   const { getTotalCartItems } = useContext(ShopContext);
-  const menuRef = useRef()
+  /*const menuRef = useRef()*/
 
-  const dropdown_toggle = (e) => {
+  /*const dropdown_toggle = (e) => {
     menuRef.current.classList.toggle('nav_menu-visible');
     e.target.classList.toggle('open');
-  }
+  }*/
+
+  const [isOpen, setIsOpen] = useState(false);
+
+  const dropdown_toggle = () => {
+    setIsOpen((prev) => !prev);
+  };
 
   return (
     <div className="navbar">
       <div className="nav_logo">
         <img className="nav_img" src={TT} alt="Binge sake" />
       </div>
-      <img onClick={dropdown_toggle} src={nav_dropdown} alt="binge sake" className="nav_dropdown" />
-      <ul ref={menuRef} className="nav_menu">
+      <img onClick={dropdown_toggle} src={nav_dropdown} alt="binge sake" className={`nav_dropdown ${isOpen ? 'open' : ''}`} />
+      <ul className={`nav_menu ${isOpen ? "nav_menu-visible" : ''}`}>
         <li
           onClick={() => {
             setmenu("shop");

@@ -133,6 +133,23 @@
     padding: 10px 0px;
   }
   .nav_dropdown{
+    display: block;
+    width: 30px;
+    rotate: -90deg;
+    transition: 0.5s;
+    cursor: pointer;
+  }
+  .nav_menu{
+    display: none;
+    height: 80px;
+    width: 100%;
+    position: absolute;
+    background-color: #ffffff;
+    justify-content: center;
+    top: 50px;
+  }
+  .nav_menu-visible{
+    display: flex;
 
   }
 }
