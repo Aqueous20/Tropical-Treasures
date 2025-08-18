@@ -3,6 +3,7 @@
   justify-content: space-around;
   padding: 16px;
   box-shadow: 0 1px 3px -2px #000000;
+  align-items: center;
 }
 
 .nav_img {
@@ -133,7 +134,7 @@
     padding: 10px 0px;
   }
   .nav_dropdown{
-    display: block;
+    display: block; 
     width: 30px;
     rotate: -90deg;
     transition: 0.5s;
@@ -150,6 +151,25 @@
   }
   .nav_menu-visible{
     display: flex;
-
+    margin-top: 20px;
+  }
+  .nav_dropdown.open{
+    transform: rotate(90deg);
+  }
+}
+@media(max-width: 500px){
+  .navbar{
+    padding: 8px 0px;
+    gap: 0;
+  }
+  .nav_logo{
+    transform: scale(0.8);
+  }
+  .nav_menu{
+    height: 70px;
+    top: 50px;
+  }
+  .nav_login-cart{
+    transform: scale(0.8);
   }
 }
