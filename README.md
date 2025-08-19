@@ -139,4 +139,10 @@ continuing the responsiveness of the website
 august 18,2025
 completed responsiveness of nav bar
 working on responsiveness of items
-fixing other bugs that are recognised
+fixing other bugs that were recognised
+
+august 19,2025
+completed the responsiveness of items component
+completed the responsiveness of the banner in the hero component
+fix other bugs that were
+working on responsiveness of popular component

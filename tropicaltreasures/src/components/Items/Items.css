@@ -71,3 +71,12 @@
     font-size: 12px;
   }
 }
+
+@media(max-width: 500px){
+  .item{
+    width: 160px;
+  }
+  .item img{
+    width: 160px;
+  }
+}
