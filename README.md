@@ -144,5 +144,10 @@ fixing other bugs that were recognised
 august 19,2025
 completed the responsiveness of items component
 completed the responsiveness of the banner in the hero component
-fix other bugs that were
+fix other bugs that were found
 working on responsiveness of popular component
+
+august 20,2025
+completed the responsiveness of popular components
+fix other bugs that were found
+started responsiveness for offers component
