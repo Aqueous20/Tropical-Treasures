@@ -151,3 +151,6 @@ august 20,2025
 completed the responsiveness of popular components
 fix other bugs that were found
 started responsiveness for offers component
+
+august 21,2025
+completed the responsiveness of Offers component
