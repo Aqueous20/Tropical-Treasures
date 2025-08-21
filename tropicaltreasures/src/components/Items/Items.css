@@ -13,6 +13,7 @@
 .item_prices {
   display: flex;
   gap: 20px;
+  align-items: center;
 }
 
 .item_prices-new {
@@ -72,11 +73,11 @@
   }
 }
 
-@media(max-width: 500px){
-  .item{
+@media (max-width: 500px) {
+  .item {
     width: 160px;
   }
-  .item img{
+  .item img {
     width: 160px;
   }
 }

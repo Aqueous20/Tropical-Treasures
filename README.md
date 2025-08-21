@@ -154,3 +154,4 @@ started responsiveness for offers component
 
 august 21,2025
 completed the responsiveness of Offers component
+started responsiveness for the new coolections 
