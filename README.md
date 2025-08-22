@@ -156,3 +156,5 @@ august 21,2025
 completed the responsiveness of Offers component
 completed the responsiveness for the new collections 
 completed the responsiveness for news letter component
+completed the rwesponsiveness for the footer component 
+home page is now fully responsive
