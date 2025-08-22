@@ -59,21 +59,21 @@
   background: #c7c7c7;
 }
 
-@media(max-width: 800px){
-  .footer{
+@media (max-width: 800px) {
+  .footer {
     gap: 20px;
   }
-  .footer_img{
+  .footer_img {
     height: 100px;
   }
-  .footer_links{
+  .footer_links {
     font-size: 14px;
     gap: 10px;
   }
-  .footer_icons img{
+  .footer_icons img {
     width: 22px;
   }
-  .footer_copyright{
+  .footer_copyright {
     font-size: 12px;
   }
 }
