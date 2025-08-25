@@ -161,3 +161,6 @@ home page is now fully responsive
 
 august 22,2025
 completed the responsiveness for the shop catergory page
+
+august 24,2025
+started the responsiveness of the login and signup page
