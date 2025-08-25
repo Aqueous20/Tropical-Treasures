@@ -164,3 +164,6 @@ completed the responsiveness for the shop catergory page
 
 august 24,2025
 started the responsiveness of the login and signup page
+
+august 25,2025
+completed the responsiveness of the login and signup page

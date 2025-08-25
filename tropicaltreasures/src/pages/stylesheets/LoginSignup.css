@@ -68,5 +68,52 @@
 }
 
 @media(max-width: 1280px){
-  
+  .login_signup{
+    padding-top: 50px;
+  }
+  .login_signup-container{
+    width: auto;
+    max-width: 550px;
+    max-height: 550px;
+  }
+  .login_signup-container h1{
+    margin: 10px 0px;
+  }
+  .login_signup-fields{
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .login_signup-fields input{
+    height: 65px;
+    width: 93%;
+  }
+  .login_signup-container button{
+    width: 93%;
+  }
+  .login_signup-login{
+    font-size: 16px;
+  }
+  .login_signup-agree{
+    font-size: 14px;
+    gap: 10px;
+  }
+}
+
+@media(max-width:800px){
+  .login_signup-container{
+    padding: 20px 30px;
+  }
+  .login_signup-container h1{
+    font-size: 24px;
+  }
+  .login_signup-fields{
+    margin-top: 20px;
+  }
+  .login_signup-fields input{
+    height: 50px;
+  }
+  .login_signup-container button{
+    height: 50px;
+    font-size: 16px;
+  }
 }
