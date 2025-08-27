@@ -172,3 +172,5 @@ august 26,2025
 started the responsiveness of the breadcrumbs component
 comoleted responsiveness for the breadcrumb component
 started responsiveness for product display component
+completed the responsiveness for the product display component
+started responsiveness for the description box component
