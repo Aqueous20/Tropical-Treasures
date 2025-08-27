@@ -174,3 +174,8 @@ comoleted responsiveness for the breadcrumb component
 started responsiveness for product display component
 completed the responsiveness for the product display component
 started responsiveness for the description box component
+
+august 26,2025
+completed the responsiveness for the description box
+started the responsiveness for the related product components
+completed the responsiveness for the related products component
