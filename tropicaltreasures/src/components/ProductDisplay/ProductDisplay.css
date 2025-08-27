@@ -102,3 +102,7 @@
 .product_display-right-category span{
     font-weight: 600;
 }
+
+@media(max-width: 1280px){
+    
+}

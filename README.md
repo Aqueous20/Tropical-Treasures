@@ -167,3 +167,8 @@ started the responsiveness of the login and signup page
 
 august 25,2025
 completed the responsiveness of the login and signup page
+
+august 26,2025
+started the responsiveness of the breadcrumbs component
+comoleted responsiveness for the breadcrumb component
+started responsiveness for product display component
