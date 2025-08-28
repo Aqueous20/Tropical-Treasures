@@ -179,3 +179,22 @@ august 26,2025
 completed the responsiveness for the description box
 started the responsiveness for the related product components
 completed the responsiveness for the related products component
+started the respnsiveness of the cart items component
+completed the responsiveness of the cart items component
+
+
+Summary of the project
+Over the past several weeks, i have been building an online shopping website step by step. The project began on July 21, 2025 with setting up the foundation and necessary tools. From there, each day focused on creating and improving different parts of the site.
+
+Navigation & Pages: A menu bar was built so visitors can move easily between pages like Home, Shop, Cart, Product Details, Login/Signup, and different categories (Men, Women, Kids).
+
+Product Showcase: The homepage was designed to highlight featured products, popular items, new collections, and special offers with clean layouts and styled sections.
+
+User Features: A login/signup system was designed, along with product pages showing details, related items, and descriptions. Customers can add or remove items from their shopping cart, and the site keeps track of the total number of items and cost.
+
+Design & Responsiveness: Each page and component (like banners, product displays, offers, newsletter, and footer) was carefully styled. Extra attention was given to responsiveness, ensuring the website works smoothly and looks good on phones, tablets, and desktops.
+
+Behind the Scenes: A shared “context system” was built to handle product data and shopping cart logic. This allows all parts of the website to communicate with each other, making the experience seamless for users.
+
+By August 26, 2025, the website has become a fully responsive e-commerce platform with all major sections completed — from browsing and product displays to account handling and cart functionality.
+
