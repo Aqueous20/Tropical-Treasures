@@ -182,7 +182,6 @@ completed the responsiveness for the related products component
 started the respnsiveness of the cart items component
 completed the responsiveness of the cart items component
 
-
 Summary of the project
 Over the past several weeks, i have been building an online shopping website step by step. The project began on July 21, 2025 with setting up the foundation and necessary tools. From there, each day focused on creating and improving different parts of the site.
 
@@ -198,3 +197,4 @@ Behind the Scenes: A shared “context system” was built to handle product dat
 
 By August 26, 2025, the website has become a fully responsive e-commerce platform with all major sections completed — from browsing and product displays to account handling and cart functionality.
 
+I will attempt to turn the project into a fullstack project in the coming weeks but for now this is the completed front end design of tropical treasures the ecommerce store
